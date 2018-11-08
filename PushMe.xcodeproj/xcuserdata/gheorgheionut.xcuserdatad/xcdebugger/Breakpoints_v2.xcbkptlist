@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PushMe/Coin.swift"
+            timestampString = "526678510.583046"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "Coin"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PushMe.Coin.__deallocating_deinit"
+                  moduleName = "PushMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gheorgheionut/Downloads/3DTouchGame-master/PushMe/Coin.swift"
+                  timestampString = "560876688.001736"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PushMe.Coin.__allocating_init(texture: Swift.Optional&lt;__ObjC.SKTexture&gt;, color: __ObjC.UIColor, size: __C.CGSize) -&gt; PushMe.Coin"
+                  moduleName = "PushMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gheorgheionut/Downloads/3DTouchGame-master/PushMe/Coin.swift"
+                  timestampString = "560876688.004329"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PushMe.Coin.init(texture: Swift.Optional&lt;__ObjC.SKTexture&gt;, color: __ObjC.UIColor, size: __C.CGSize) -&gt; PushMe.Coin"
+                  moduleName = "PushMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gheorgheionut/Downloads/3DTouchGame-master/PushMe/Coin.swift"
+                  timestampString = "560876688.0066921"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
